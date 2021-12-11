@@ -1,0 +1,8 @@
+Some notes:
+
+- Yes, the test data is somewhat lacking.
+- No rotation-based augmentations have been applied to the data. To get 4x the amount of data, use all rotations of each image.
+
+Happy hacking!
+
+Daylen Yang
